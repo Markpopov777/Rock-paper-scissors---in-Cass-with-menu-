@@ -1,5 +1,5 @@
-# Rock-paper-scissors---in-Cass-with-menu-
-Rock paper scissors - in Cass with menu 
+# Rock-paper-scissors---in-class-with-menu-
+Rock paper scissors - in class with menu 
 
 
 import random
